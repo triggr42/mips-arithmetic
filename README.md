@@ -1,6 +1,6 @@
 # MIPS Assembly Math Program
 
-This is a simple program written in MIPS assembly language that performs various mathematical operations on two numbers entered by the user.
+This is a simple program written in MIPS assembly language that performs various mathematical operations on two integers entered by the user.
 
 ## Table of Contents
 
@@ -13,13 +13,14 @@ This is a simple program written in MIPS assembly language that performs various
 
 ## Introduction
 
-This program demonstrates basic arithmetic operations in MIPS assembly language. It prompts the user to enter two numbers and then performs addition, subtraction, multiplication, and division operations on them. The result of each operation is displayed to the user.
+This program demonstrates basic arithmetic operations in MIPS assembly language. It prompts the user to enter two integers and then performs addition, subtraction, multiplication, and division operations on them. The result of each operation is displayed to the user.
 
 ## Features
 
 - User-friendly interface.
 - Supports addition, subtraction, multiplication, and division operations.
-- Handles both positive and negative numbers.
+- Also supports identifying integers between two integers, sum of integers between two integers, and exponentiation of two integers.
+- Handles both positive and negative integers.
 - Provides clear instructions for user interaction.
 
 ## Prerequisites
@@ -44,7 +45,7 @@ To run this program, you need:
 1. Open the program in your MIPS simulator or emulator.
 2. Assemble the code if necessary.
 3. Run the program.
-4. Follow the on-screen instructions to enter two numbers.
+4. Follow the on-screen instructions to enter two integers.
 5. Choose the operation you want to perform.
 6. View the result displayed by the program.
 
